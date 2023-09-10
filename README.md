@@ -16,10 +16,18 @@ This project was created as part of a task for Work India. It's a simple web app
 
 ## Screenshot of Website
 ![Screenshot](./src/assets/screenshot.png)
-## Running the Project
 
-To run this project locally, follow these steps:
-
-### cd task
-### npm install
-### npm start
+### Installation
+Open the terminal in the folder in which you wish to clone the repository and enter the following command:
+``` 
+git clone https://github.com/SidharthMishra-07/task.git
+cd task
+```
+Install all the NPM packages:
+```
+npm i
+```
+In order to run the frontend:
+```
+npm run start
+```
