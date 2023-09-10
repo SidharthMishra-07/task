@@ -15,7 +15,7 @@ This project was created as part of a task for Work India. It's a simple web app
 - The number of cards in each section of Applied, Accepted and Rejected is dynamically rendered via fetching data from API
 
 ## Screenshot of Website
-![Screenshot](screenshot.png)
+![Screenshot](./src/assets/screenshot.png)
 ## Running the Project
 
 To run this project locally, follow these steps:
